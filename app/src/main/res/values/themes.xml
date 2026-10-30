@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CIMUCE" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Fondo crema al abrir la app, sin destello blanco antes del primer frame de Compose. -->
+        <item name="android:windowBackground">@color/crema</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores de marca usados por recursos XML (ícono y ventana). En Compose: ui/theme/Color.kt -->
+    <color name="verde_oscuro">#FF1E3F2A</color>
+    <color name="caramelo">#FFC99063</color>
+    <color name="crema">#FFF8F4EE</color>
+</resources>

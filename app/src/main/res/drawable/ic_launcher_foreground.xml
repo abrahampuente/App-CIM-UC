@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Primer plano: casa caramelo con vetas de madera, dentro de la zona segura de 66dp. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Techo -->
+    <path android:fillColor="@color/caramelo" android:pathData="M29,53L54,31L79,53L74,53L54,36L34,53Z" />
+    <!-- Cuerpo -->
+    <path android:fillColor="@color/caramelo" android:pathData="M36,50L54,35L72,50L72,77L36,77Z" />
+    <!-- Vetas de madera -->
+    <path android:fillColor="#00000000" android:strokeColor="#591E3F2A" android:strokeWidth="1.4"
+        android:strokeLineCap="round"
+        android:pathData="M39,57h30M39,63h9M60,63h9M39,69h9M60,69h9" />
+    <!-- Puerta -->
+    <path android:fillColor="@color/verde_oscuro" android:pathData="M49,63h10v14h-10z" />
+</vector>

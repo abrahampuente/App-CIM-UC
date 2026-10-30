@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Versión monocromática para íconos temáticos (Android 13+): silueta de la casa con la puerta calada. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FF000000" android:pathData="M29,53L54,31L79,53L74,53L54,36L34,53Z" />
+    <path android:fillColor="#FF000000" android:fillType="evenOdd"
+        android:pathData="M36,50L54,35L72,50L72,77L36,77ZM49,63h10v14h-10z" />
+</vector>
